@@ -1,0 +1,14 @@
+# Site Settings
+title: Clara
+email: andrea.rodriguez.12@sansano.usm.cl
+description: >
+  Welcome to Clara
+baseurl: "/test"
+url: "https://arodel21.github.io"
+github_username:  arodel21
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
